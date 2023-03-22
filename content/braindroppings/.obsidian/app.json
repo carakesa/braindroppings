@@ -1,0 +1,10 @@
+{
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "absolute",
+  "spellcheck": true,
+  "useTab": false,
+  "tabSize": 2,
+  "vimMode": true,
+  "trashOption": "local",
+  "attachmentFolderPath": "./"
+}

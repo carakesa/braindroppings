@@ -139,5 +139,9 @@
     }
   },
   "active": "0c58545cf15f8152",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "ignores.md",
+    "using-quartz/ignores.md",
+    "using-quartz"
+  ]
 }

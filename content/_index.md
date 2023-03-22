@@ -1,7 +1,24 @@
 ---
 title: 🪴 Quartz 3.3
-enableToc: false
+enableToc: true
 ---
+
+Quick Refrences on Editing:
+
+To change this      Edit This:
+Homepage            content/_index.md
+colors              assets/custom.scss
+
+Adding Images:
+  put images in /content and link like this:
+
+``` Example Image (source is in content/notes/images/example.png
+then 
+![Example Image](/content/notes/images/example.png)
+
+will link ```
+
+
 
 Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
 

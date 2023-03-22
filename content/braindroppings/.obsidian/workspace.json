@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Old_Man_Yells_at_Cloud/Rants and Musings.md",
+                "file": "Old_Man_Yells_at_Cloud/Rants_and_Musings.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Old_Man_Yells_at_Cloud/Rants and Musings.md",
+                "file": "Old_Man_Yells_at_Cloud/Rants_and_Musings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Old_Man_Yells_at_Cloud/Rants and Musings.md",
+                "file": "Old_Man_Yells_at_Cloud/Rants_and_Musings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Old_Man_Yells_at_Cloud/Rants and Musings.md"
+                "file": "Old_Man_Yells_at_Cloud/Rants_and_Musings.md"
               }
             }
           }
@@ -146,12 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6ea1bc746fd0501a",
+  "active": "bba77a71eaed5c8a",
   "lastOpenFiles": [
     "content/images/oldmanyellsatcloud.gif",
     "content/images/old-man-yells-at-cloud.gif.md",
     "content/images 1.md",
-    "Old_Man_Yells_at_Cloud/Rants and Musings.md",
+    "Old_Man_Yells_at_Cloud/Rants_and_Musings.md",
     "content/images",
     "Intro/How Did I Get Here?.md",
     "content/images.md",

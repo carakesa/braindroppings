@@ -3,26 +3,23 @@ title: 🪴 Quartz 3.3
 enableToc: true
 ---
 
-### Quick Refrences on Editing:
-```
+Quick Refrences on Editing:
+
 To change this      Edit This:
 Homepage            content/_index.md
 colors              assets/custom.scss
-```
 
-### Adding Images:
+Adding Images:
   put images in /content and link like this:
 
-``` 
-Example Image (source is in content/notes/images/example.png
+``` Example Image (source is in content/notes/images/example.png
 then 
 ![Example Image](/content/notes/images/example.png)
 
-will link
-````
+will link ```
 
 
-# Default Text
+
 Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
 
 1. Extremely fast natural-language [[notes/search]]

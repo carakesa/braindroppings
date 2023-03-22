@@ -12,7 +12,7 @@ Then I started investigating 'self-hosted note apps'.  That led to [Obsidian](ht
 
 A few days ago, I ran across [Everything I Know](https://wiki.nikiv.dev/) and fell in love with the concept.  It's clean, simple, and strips out the crud prevalent in most blogs.  You know the type --  You're looking for the a way to hard boil eggs.  Five minutes later, you have multiple browser tabs open, there's an ad for a VPN, and something suggests using sparkling hotdog water to mitigate the effects of 5g on their coffee table.
 
-I digress, but rest assured there will be more of that in [[Old_Man_Yells_at_Cloud/Rants and Musings]]
+I digress, but rest assured there will be more of that in [[Old_Man_Yells_at_Cloud/Rants_and_Musings]]
 
 If you're really bored, here's a bit [[Intro/about me]]
 
